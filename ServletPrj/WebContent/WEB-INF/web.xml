@@ -4,7 +4,7 @@
 		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
 		http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
   <display-name>ServletPrj</display-name>
-  <servlet>
+<!--   <servlet>
   	<servlet-name>first</servlet-name>
   	<servlet-class>kr.hs.study.FirstServlet</servlet-class>
   </servlet>
@@ -12,4 +12,5 @@
   	<servlet-name>first</servlet-name>
   	<url-pattern>/hello</url-pattern>
   </servlet-mapping>
+   --> 
 </web-app>
